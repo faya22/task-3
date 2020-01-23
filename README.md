@@ -1,8 +1,8 @@
-Żeby zainstalować biblioteki uruchomić:\
+To install libraries run command below:
 `pip install -r requirements.txt`
 
-Aby grafy rysowały się poprawnie należy:
-1. Zainstalować do Pythona pakiet graphviz (pip install graphviz).
-2. Pobrać i zainstalować Graphviz (https://graphviz.org/download/).
-3. Dodać do zmiennych środowiskowych systemu katalog bin programu Graphviz (.../Graphviz2.38/bin).
-4. Powinno wszystko działać :D
+Requirements for generate graph.
+1.Install graphviz via pip (pip install graphviz).
+2. Download and install (https://graphviz.org/download/).
+3. Add to system enviromental variables the "bin" directoru from Graphviz (.../Graphviz2.38/bin).
+4. Run the program.
